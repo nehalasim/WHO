@@ -5,5 +5,11 @@ The system is used to collect data on Child anthropometry measurement from at bi
 # System Description-
 The system is currently running in remote location of the filed site in a tablet PC, where the internet connection is not available all the time. As the system is a web based, So the system is currently running local web server(XAMPP) because of no internet connection.  
 
+# Database-
+A master database used where all information of the child is stored, which is used to pull the information of the child during the anthropomentry measurement.
+
+# Process-
+
+
 
 
