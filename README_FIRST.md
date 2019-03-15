@@ -24,8 +24,20 @@ Every week field supervisor visit the data collector to upload the collected dat
 
 To develop this stystem complex algorithm and techniques are used. So to make it more easy I added interactive functions using javascript, JQuery and ajax.
 
+# File description 
+1. Index.php - To login the user
+2. Schedule.php - To display the current visit schedule
+3. system.php - Used to enter data on a specific children
+4. PHP/ChildChk.php - To check the child duplicacy and status
+5. PHP/CHW_BackUP.php - To create a backup file of the enterted data
+6. PHP/dataUpload.php - To upload the data to our main web server.
+7. PHP/FullDataBackup.php - To back full databases.
+8. PHP/getAllData.php - Used to pull all all data of the child after selecting a child from the schedule list.
+9. PHP/next_re_sch.php - To re schedule the child visit.
+10. PHP/next_sch.php - To check the next schedule.
+11. PHP/saveRe_data.php - After re scheduling the child visit to save the re scheduling date.
+12. PHP/search_child.php - To know the visit status of any specific child visit information.
+13. PHP/updateRe_data.php - To update the rescheduling information.
+14. PHP/userChk.php - To check the user information.
 # Used techniques
-PHP
-Jquery
-Ajax
-MySql
+PHP,Jquery, Ajax, MySql
