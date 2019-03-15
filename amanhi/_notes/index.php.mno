@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:SlNo;datatype:int,name:UName;datatype:string,name:User_ID;datatype:string,name:User_Pass;datatype:string,name:Emp_ID;datatype:string,name:User_level_ID;datatype:int,name:User_Status;datatype:string" />
+	<infoitem key="UD_Unit" value="name:Unit;datatype:string,name:Tab_ID;datatype:int,name:MAX( EnDt);datatype:timestamp" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_visitSch" value="name:dob;datatype:string,name:Mon3_startDate;datatype:string,name:Mon3_endDate;datatype:string,name:Mon6_startDate;datatype:string,name:Mon6_endDate;datatype:string,name:Mon12_startDate;datatype:string,name:Mon12_endDate;datatype:string,name:Mon18_startDate;datatype:string,name:Mon18_endDate;datatype:string,name:Mon24_startDate;datatype:string,name:Mon24_endDate;datatype:string,name:Mon30_startDate;datatype:string,name:Mon30_endDate;datatype:string,name:Mon36_startDate;datatype:string,name:Mon36_endDate;datatype:string,name:Block;datatype:string,name:StudyId;datatype:string,name:mcid;datatype:string,name:cpid;datatype:string" />
+	<infoitem key="UD_TabID" value="name:Tab_ID;datatype:int,name:EnDt;datatype:timestamp,name:sl;datatype:int" />
+</info>

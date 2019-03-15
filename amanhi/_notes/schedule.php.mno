@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ALL_DATA" value="name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string" />
+	<infoitem key="UD_Unit" value="name:Unit;datatype:string" />
+	<infoitem key="UD_Visit_3" value="name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string" />
+	<infoitem key="UD_visit_6" value="name:Q112;datatype:string,name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string,name:Sch_Date;datatype:date,name:for_status;datatype:string,name:visit;datatype:string,name:visitDT;datatype:date,name:visitOutCome;datatype:string" />
+	<infoitem key="UD_visit_12" value="name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string" />
+	<infoitem key="UD_visit_2" value="name:Q112;datatype:string,name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string,name:Sch_Date;datatype:date,name:for_status;datatype:string,name:visit;datatype:string,name:visitDT;datatype:date,name:visitOutCome;datatype:string" />
+	<infoitem key="UD_visit_3" value="name:Q112;datatype:string,name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string,name:Sch_Date;datatype:date,name:for_status;datatype:string,name:visit;datatype:string,name:visitDT;datatype:date,name:visitOutCome;datatype:string" />
+	<infoitem key="UD_visit_5" value="name:Q112;datatype:string,name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string,name:Sch_Date;datatype:date,name:for_status;datatype:string,name:visit;datatype:string,name:visitDT;datatype:date,name:visitOutCome;datatype:string" />
+	<infoitem key="UD_visit_7" value="name:Q112;datatype:string,name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string,name:Sch_Date;datatype:date,name:for_status;datatype:string,name:visit;datatype:string,name:visitDT;datatype:date,name:visitOutCome;datatype:string" />
+	<infoitem key="UD_visit_8" value="name:Q112;datatype:string,name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string,name:Sch_Date;datatype:date,name:for_status;datatype:string,name:visit;datatype:string,name:visitDT;datatype:date,name:visitOutCome;datatype:string" />
+	<infoitem key="UD_visit_DUE" value="name:Q112;datatype:string,name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string,name:visit;datatype:string" />
+	<infoitem key="UD_visit_4" value="name:Q112;datatype:string,name:StudyId;datatype:string,name:dob;datatype:string,name:Q109;datatype:string,name:Q110;datatype:string,name:Sch_Date;datatype:date,name:for_status;datatype:string,name:visit;datatype:string,name:visitDT;datatype:date,name:visitOutCome;datatype:string" />
+	<infoitem key="UD_User_1" value="name:SlNo;datatype:int,name:UName;datatype:string,name:User_ID;datatype:string,name:User_Pass;datatype:string,name:Emp_ID;datatype:string,name:User_level_ID;datatype:int,name:User_Status;datatype:string" />
+	<infoitem key="UD_user" value="name:SlNo;datatype:int,name:UName;datatype:string,name:User_ID;datatype:string,name:User_Pass;datatype:string,name:Emp_ID;datatype:string,name:User_level_ID;datatype:int,name:User_Status;datatype:string" />
+	<infoitem key="UD_CountAll" value="name:count(*);datatype:int" />
+	<infoitem key="UD_OdayEntry" value="name:totalToday;datatype:int" />
+</info>
