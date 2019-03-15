@@ -19,3 +19,9 @@ Every week field supervisor visit the data collector to upload the collected dat
 3. If the connection is OK, then it creates a file through PHP with SQL Insert into queries(PHP/CHW_Backup.php).
 4. After creating the file, the system redirect to another page automatically called (PHP/dataUpload.php).
 5. where all the main server information is programmed and runs the created SQL file. During this process data is inserted into our main server after data verification and duplicacy check.
+
+# Used techniques
+PHP
+Jquery
+Ajax
+MySql
