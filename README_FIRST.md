@@ -9,7 +9,5 @@ The system is currently running in remote location of the filed site in a tablet
 A master database used where all information of the child is stored, which is used to pull the information of the child during the anthropomentry measurement.
 
 # Process-
-
-
-
+During the visit of the child, the data collector enter the schedule, where they get all the children list. Schedule is auto generate based on Date of birth, visit number, location and current day, whcih is done by multiple complex SQL queries.
 
