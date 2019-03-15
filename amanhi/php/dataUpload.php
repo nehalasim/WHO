@@ -56,11 +56,11 @@ $var = $row_tabName['Tab_ID'];
 // Name of the file
 $filename = 'c:/DataBase_BackUp/Dropbox/backUp/'.'ACT_Tab-'.$var.'.sql';
 // MySQL host
-$mysql_host = '27.147.225.171';
+$mysql_host = 'xxx.xxx.xxx.xxx';
 // MySQL username
-$mysql_username = 'root';
+$mysql_username = 'xxxx';
 // MySQL password
-$mysql_password = '';
+$mysql_password = 'xxxx';
 // Database name
 $mysql_database = 'act_study';
 
@@ -117,11 +117,11 @@ $var = $row_tabName['Tab_ID'];
 // Name of the file
 $filename = 'c:/DataBase_BackUp/Dropbox/backUp/'.'Tab-Elg-'.$var.'.sql';
 // MySQL host
-$mysql_host = '27.147.225.171';
+$mysql_host = 'xxx.xxx.xxx.xxx';
 // MySQL username
-$mysql_username = 'root';
+$mysql_username = 'xxxx';
 // MySQL password
-$mysql_password = '';
+$mysql_password = 'xxxxx';
 // Database name
 $mysql_database = 'pcvmain';
 
@@ -164,11 +164,11 @@ $var = $row_tabName['Tab_ID'];
 // Name of the file
 $filename = 'c:/DataBase_BackUp/Dropbox/backUp/'.'Tab-SES-'.$var.'.sql';
 // MySQL host
-$mysql_host = '27.147.225.171';
+$mysql_host = 'xxx.xxx.xxx.xxx';
 // MySQL username
-$mysql_username = 'root';
+$mysql_username = 'xxx';
 // MySQL password
-$mysql_password = '';
+$mysql_password = 'xxx';
 // Database name
 $mysql_database = 'pcvmain';
 
